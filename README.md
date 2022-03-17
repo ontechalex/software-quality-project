@@ -1,1 +1,1 @@
-# software-quality-project
+# Software Quality Project
